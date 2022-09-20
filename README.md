@@ -35,8 +35,8 @@
 ># Reminder
 >## This is a `Responsive Design`
 
-<!-- # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
-># [LIVE [HOSTED] PROJECT LINK](https://pensil-landing-page-brijesh8128.netlify.app/) -->
+# HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
+># [LIVE [HOSTED] PROJECT LINK](https://react-todo-app-brijeshvadalia.vercel.app/)
 
 
 >![screenshot](./screenshot/screenchot-2.png)
