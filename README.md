@@ -1,4 +1,4 @@
-# A complete React TODO App with lots of features.
+# A complete React TODO App.
 
 <!-- Social Links -->
 
