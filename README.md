@@ -81,10 +81,3 @@
 [hashnode-shield]: https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white
 [hashnode-url]: https://brijeshvadaliya8128.hashnode.dev/
 
-
-
-
-<!-- Project screenshot -->
-
-[product-screenshot]: /readme_assets/project01.jpg
-[project-url]: https://trending25.netlify.app/
