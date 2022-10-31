@@ -33,7 +33,7 @@
 
 
 ># Reminder
->## This is a `Responsive Design 🍥`
+>## This is a `Responsive Design`
 
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS
 ># [LIVE [HOSTED] PROJECT LINK](https://react-todo-app-brijeshvadalia.vercel.app/)
